@@ -1,3 +1,3 @@
-# vanhuychimuontotchocau(java)
+# vanhuychimuontotchocau
 vanhuytapcodejava
 
